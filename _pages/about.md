@@ -23,7 +23,7 @@ News
 Publications
 ======
 
-<img src="/images/profile.png" alt="UDiFF" style="float: left; margin-right: 20px;" width="200">
+<img src="/images/toucheditor" alt="UDiFF" style="float: left; margin-right: 20px;" width="200">
 
 **[UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion](https://example.com)**  
 Junsheng Zhou\*, Weiqi Zhang\*, Baorui Ma, Kanle Shi, Yu-Shen Liu, Zhizhong Han  
