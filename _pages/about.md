@@ -23,13 +23,10 @@ News
 Publications
 ======
 
-<img src="/images/toucheditor" alt="UDiFF" style="float: left; margin-right: 20px;" width="200">
+<img src="/images/imwut_toucheditor.jpg" style="float: left; margin-right: 20px;" width="200">
 
-**[UDiFF: Generating Conditional Unsigned Distance Fields with Optimal Wavelet Diffusion](https://example.com)**  
-Junsheng Zhou\*, Weiqi Zhang\*, Baorui Ma, Kanle Shi, Yu-Shen Liu, Zhizhong Han  
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+**[TouchEditor: Interaction Design and Evaluation of a Flexible Touchpad for Text Editing of Head-Mounted Displays in Speech-unfriendly Environments](https://dl.acm.org/doi/abs/10.1145/3631454?af=R)**  
+Lishuang Zhan, Tianyang Xiong, Hongwei Zhang, Shihui Guo\*, Xiaowei Chen, Jiangtao Gong, Juncong Lin, Yipeng Qin  
+*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp/IMWUT), 2024*
 
-UDiFF is a 3D diffusion model for unsigned distance fields (UDFs) which is capable to generate textured 3D shapes with open surfaces from text conditions or unconditionally.  
-[project page](https://example.com/project-page) | [arXiv](https://arxiv.org/abs/1234.56789) | [code](https://github.com/example/code)
-
-
+TouchEditor is a novel text editing system for HMDs based on a flexible piezoresistive film sensor, supporting cursor positioning, text selection, text retyping and editing commands (i.e., Copy, Paste, Delete, etc.).
