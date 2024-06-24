@@ -23,7 +23,7 @@ News
 Publications
 ======
 
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 6px;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 12px;">
   <tr>
     <td style="width:35%; border: none;"><img src="/images/imwut_toucheditor.jpg" alt="TouchEditor" width="100%"></td>
     <td style="width:65%; border: none;">
