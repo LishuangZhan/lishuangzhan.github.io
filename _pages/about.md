@@ -23,9 +23,9 @@ News
 Publications
 ======
 
-<table style="width:100%; border-collapse: collapse;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 6px;">
   <tr>
-    <td style="width:30%; border: none;"><img src="/images/imwut_toucheditor.jpg" alt="TouchEditor" width="300"></td>
+    <td style="width:30%; border: none;"><img src="/images/imwut_toucheditor.jpg" alt="TouchEditor" width="100%"></td>
     <td style="width:70%; border: none;">
       <strong><a href="https://dl.acm.org/doi/abs/10.1145/3631454?af=R">TouchEditor: Interaction Design and Evaluation of a Flexible Touchpad for Text Editing of Head-Mounted Displays in Speech-unfriendly Environments</a></strong><br>
       <strong>Lishuang Zhan</strong>, Tianyang Xiong, Hongwei Zhang, Shihui Guo*, Xiaowei Chen, Jiangtao Gong, Juncong Lin, Yipeng Qin<br>
