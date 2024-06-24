@@ -23,6 +23,19 @@ News
 Publications
 ======
 
+<table>
+  <tr>
+    <td style="width:30%;"><img src="/images/imwut_toucheditor.jpg" alt="TouchEditor" width="250"></td>
+    <td style="width:30%;">
+      <strong><a href="https://dl.acm.org/doi/abs/10.1145/3631454?af=R">TouchEditor: Interaction Design and Evaluation of a Flexible Touchpad for Text Editing of Head-Mounted Displays in Speech-unfriendly Environments</a></strong><br>
+      <strong>Lishuang Zhan</strong>, Tianyang Xiong, Hongwei Zhang, Shihui Guo*, Xiaowei Chen, Jiangtao Gong, Juncong Lin, Yipeng Qin<br>
+      <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp/IMWUT), 2024</em><br><br>
+      TouchEditor is a novel text editing system for HMDs based on a flexible piezoresistive film sensor, supporting cursor positioning, text selection, text retyping and editing commands (i.e., Copy, Paste, Delete, etc.).
+    </td>
+  </tr>
+</table>
+
+
 <img src="/images/imwut_toucheditor.jpg" style="float: left; margin-right: 20px;" width="250">
 
 **[TouchEditor: Interaction Design and Evaluation of a Flexible Touchpad for Text Editing of Head-Mounted Displays in Speech-unfriendly Environments](https://dl.acm.org/doi/abs/10.1145/3631454?af=R)**  
