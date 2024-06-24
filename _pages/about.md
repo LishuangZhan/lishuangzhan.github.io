@@ -23,7 +23,7 @@ News
 Publications
 ======
 
-<img src="/images/imwut_toucheditor.jpg" style="float: left; margin-right: 20px;" width="200" height="300">
+<img src="/images/imwut_toucheditor.jpg" style="float: left; margin-right: 20px;" width="200" height="600">
 
 **[TouchEditor: Interaction Design and Evaluation of a Flexible Touchpad for Text Editing of Head-Mounted Displays in Speech-unfriendly Environments](https://dl.acm.org/doi/abs/10.1145/3631454?af=R)**
 
