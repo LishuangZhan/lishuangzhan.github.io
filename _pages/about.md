@@ -10,7 +10,7 @@ redirect_from:
 I am currently a Master student (since fall, 2021) and an incoming Ph.D student in [School of Informatics, Xiamen University](https://informatics.xmu.edu.cn/), advised by Prof. [Shihui Guo](https://www.humanplus.xyz/). My research focuses on natural human-computer interaction, flexible wearables, and multimodal sensing.
 
 # Education
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 18px; line-height: 0.8;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 16px; line-height: 0.8;">
   <tr>
     <td style="width:15%; border: none;">2024-now</td>
     <td style="width:85%; border: none;">Xiamen University, Ph.D in Computer Science and Technology</td>
@@ -26,7 +26,7 @@ I am currently a Master student (since fall, 2021) and an incoming Ph.D student 
 </table>
 
 # News
-<span style="font-size: 16px;">
+<span style="font-size: 15px;">
 - 02/2024: Our paper [Loose Inertial Poser](https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.
 - 10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.
 - 04/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.
