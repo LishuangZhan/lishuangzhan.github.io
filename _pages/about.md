@@ -26,8 +26,13 @@ I am currently a Master student (since fall, 2021) and an incoming Ph.D student 
 </table>
 
 # News
-- 10/2021:
-- 09/2021: 
+- 02/2024: Our paper [Loose Inertial Poser](https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html) on motion capture with IMU-attached loose-wear jacket is accepted to **CVPR 2024**.
+- 10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.
+- 04/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.
+- 01/2023: Our paper [Enable](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.
+- 10/2022: Our paper [Handwriting Velcro](https://dl.acm.org/doi/10.1145/3569461) on flexible text input system is accepted to **Ubicomp/IMWUT 2023**.
+- 08/2022: Our paper [Full-body](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **Ubicomp/IMWUT 2023**.
+- 10/2021: Our paper MSMC-ProVis on data processing and visualization won the **<span style="color: red;">Best Poster Paper</span>** on **ChinaVR 2021**.
 
 # Publications
 
@@ -61,7 +66,7 @@ I am currently a Master student (since fall, 2021) and an incoming Ph.D student 
     <td style="width:65%; border: none;">
       <strong><a href="https://dl.acm.org/doi/abs/10.1145/3596258">Touch-and-Heal: Data-driven Affective Computing in Tactile Interaction with Robotic Dog</a></strong><br>
       Shihui Guo*, <strong>Lishuang Zhan*</strong>, Yancheng Cao, Chen Zheng, Guyue Zhou, Jiangtao Gong<br>
-      <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>Ubicomp/IMWUT</strong>), 2024</em><br>
+      <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>Ubicomp/IMWUT</strong>), 2023</em><br>
       We propose a data-driven affective computing system based on a biomimetic quadruped robot with large-format, high-density flexible pressure sensors, which can mimic the natural tactile interaction between humans and pet dogs.
     </td>
   </tr>
