@@ -10,18 +10,18 @@ redirect_from:
 I am currently a Master student (since fall, 2021) and an incoming Ph.D student in [School of Informatics, Xiamen University](https://informatics.xmu.edu.cn/), advised by Prof. [Shihui Guo](https://www.humanplus.xyz/). My research focuses on natural human-computer interaction, flexible wearables, and multimodal sensing.
 
 # Education
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 20px;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 18px; line-height: 1.0;">
   <tr>
-    <td style="width:20%; border: none;">2024-now</td>
-    <td style="width:80%; border: none;">Xiamen University, Ph.D in Computer Science and Technology</td>
+    <td style="width:15%; border: none;">2024-now</td>
+    <td style="width:85%; border: none;">Xiamen University, Ph.D in Computer Science and Technology</td>
   </tr>
   <tr>
-    <td style="width:20%; border: none;">2021-2024</td>
-    <td style="width:80%; border: none;">Xiamen University, Master in Software Engineering</td>
+    <td style="width:15%; border: none;">2021-2024</td>
+    <td style="width:85%; border: none;">Xiamen University, Master in Software Engineering</td>
   </tr>
   <tr>
-    <td style="width:20%; border: none;">2017-2021</td>
-    <td style="width:80%; border: none;">Xiamen University, Bachelor in Digital Media Technology</td>
+    <td style="width:15%; border: none;">2017-2021</td>
+    <td style="width:85%; border: none;">Xiamen University, Bachelor in Digital Media Technology</td>
   </tr>
 </table>
 
