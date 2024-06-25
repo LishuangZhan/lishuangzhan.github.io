@@ -26,7 +26,7 @@ I am currently a Master student (since fall, 2021) and an incoming Ph.D student 
 </table>
 
 # News
-- 02/2024: Our paper [Loose Inertial Poser](https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html) on motion capture with IMU-attached loose-wear jacket is accepted to **CVPR 2024**.
+- <span style="font-size: 14px;">02/2024: Our paper [Loose Inertial Poser](https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html) on motion capture with IMU-attached loose-wear jacket is accepted to **CVPR 2024**.</span>
 - 10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.
 - 04/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.
 - 01/2023: Our paper [Enable](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.
