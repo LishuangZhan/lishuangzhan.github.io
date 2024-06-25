@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /about/#about me
+    
   - title: "Education"
     url: /about/#education
     
@@ -7,7 +10,7 @@ main:
     url: /about/#news
 
   - title: "Publications"
-    url: /about/#Publications
+    url: /about/publications
 
   # - title: "Talks"
   #   url: /talks/    
