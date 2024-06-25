@@ -10,7 +10,8 @@ redirect_from:
 I am currently a Master student (since fall, 2021) and an incoming Ph.D student in [School of Informatics, Xiamen University](https://informatics.xmu.edu.cn/), advised by Prof. [Shihui Guo](https://www.humanplus.xyz/). My research focuses on natural human-computer interaction, flexible wearables, and multimodal sensing.
 
 # Education
-- 2021-now  Xiamen University, Master in Software Engineering
+- 2024-now   Xiamen University, Ph.D in Computer Science and Technology
+- 2021-2024  Xiamen University, Master in Software Engineering
 - 2017-2021  Xiamen University, Bachelor in Digital Media Technology
 
 # News
