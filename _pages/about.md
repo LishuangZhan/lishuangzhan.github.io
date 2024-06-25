@@ -45,3 +45,15 @@ Publications
     </td>
   </tr>
 </table>
+
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
+  <tr>
+    <td style="width:35%; border: none;"><img src="/images/icra_enable.png" width="100%"></td>
+    <td style="width:65%; border: none;">
+      <strong><a href="https://ieeexplore.ieee.org/document/10161049">Enable Natural Tactile Interaction for Robot Dog based on Large-format Distributed Flexible Pressure Sensors</a></strong><br>
+      <strong>Lishuang Zhan</strong>, Yancheng Cao, Qitai Chen, Haole Guo, Jiasi Gao, Yiyue Luo, Shihui Guo, Guyue Zhou, Jiangtao Gong<br>
+      <em>IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2023</em><br>
+      In this paper, we design and implement a set of large-format distributed flexible pressure sensors on a robot dog to enable natural human-robot tactile interaction.
+    </td>
+  </tr>
+</table>
