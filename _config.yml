@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhan's HomePage"
 title_separator          : "-"
-name                     : &name "Lishuang Zhan/詹李双"
+name                     : &name "Lishuang Zhan"
 description              : &description "Love No Matter What"
 url                      : https://lishuangzhan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
