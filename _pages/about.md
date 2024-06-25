@@ -24,6 +24,18 @@ Publications
 
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
   <tr>
+    <td style="width:35%; border: none;"><img src="/images/cvpr_looseinertialposer.jpg" width="100%"></td>
+    <td style="width:65%; border: none;">
+      <strong><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html">Loose Inertial Poser: Motion Capture with IMU-attached Loose-Wear Jacket</a></strong><br>
+      Chengxu Zuo, Yiming Wang, <strong>Lishuang Zhan</strong>, Shihui Guo*, Xinyu Yi, Feng Xu, Yipeng Qin<br>
+      <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</em><br>
+      Loose Inertial Poser is a novel motion capture solution with high wearing comfortableness by integrating four Inertial Measurement Units (IMUs) into a loose-wear jacket.
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
+  <tr>
     <td style="width:35%; border: none;"><img src="/images/imwut_toucheditor.jpg" width="100%"></td>
     <td style="width:65%; border: none;">
       <strong><a href="https://dl.acm.org/doi/abs/10.1145/3631454?af=R">TouchEditor: Interaction Design and Evaluation of a Flexible Touchpad for Text Editing of Head-Mounted Displays in Speech-unfriendly Environments</a></strong><br>
@@ -54,6 +66,30 @@ Publications
       <strong>Lishuang Zhan</strong>, Yancheng Cao, Qitai Chen, Haole Guo, Jiasi Gao, Yiyue Luo, Shihui Guo, Guyue Zhou, Jiangtao Gong<br>
       <em>IEEE International Conference on Robotics and Automation (<strong>ICRA</strong>), 2023</em><br>
       In this paper, we design and implement a set of large-format distributed flexible pressure sensors on a robot dog to enable natural human-robot tactile interaction.
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
+  <tr>
+    <td style="width:35%; border: none;"><img src="/images/tom_fullbody.png" width="100%"></td>
+    <td style="width:65%; border: none;">
+      <strong><a href="https://dl.acm.org/doi/10.1145/3564700">Full-body Human Motion Reconstruction with Sparse Joint Tracking Using Flexible Sensors</a></strong><br>
+      Xiaowei Chen, Xiao Jiang, <strong>Lishuang Zhan</strong>, Shihui Guo*, Qunsheng Ruan, Guoliang Luo, Minghong Liao, Yipeng Qin<br>
+      <em>ACM Transactions on Multimedia Computing, Communications and Applications (<strong>TOMMCCAP</strong>), 2023</em><br>
+      In this work, we propose a novel framework to accurately predict human joint moving angles from signals of only four flexible sensors, thereby achieving human joint tracking in multi-degrees of freedom.
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
+  <tr>
+    <td style="width:35%; border: none;"><img src="/images/imwut_handwritingvelcro.png" width="100%"></td>
+    <td style="width:65%; border: none;">
+      <strong><a href="https://dl.acm.org/doi/10.1145/3569461">Handwriting Velcro: Endowing AR Glasses with Personalized and Posture-adaptive Text Input Using Flexible Touch Sensor</a></strong><br>
+      Fengyi Fang, Hongwei Zhang, <strong>Lishuang Zhan</strong>, Shihui Guo*, Minying Zhang, Juncong Lin, Yipeng Qin, and Hongbo Fu<br>
+      <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<strong>Ubicomp/IMWUT</strong>), 2023</em><br>
+      Handwriting Velcro is a novel text input solution for AR glasses based on flexible touch sensors, which can easily stick to different body parts, thus endowing AR glasses with posture-adaptive handwriting input.
     </td>
   </tr>
 </table>
