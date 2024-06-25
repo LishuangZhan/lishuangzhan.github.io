@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lishuang Zhan / 詹李双"
+title                    : "Zhan's HomePage"
 title_separator          : "-"
 name                     : &name "Lishuang Zhan"
 description              : &description "Love No Matter What"
