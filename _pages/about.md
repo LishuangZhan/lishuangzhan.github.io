@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Lishuang Zhan|詹李双"
 author_profile: true
 redirect_from: 
   - /about/
