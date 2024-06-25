@@ -31,7 +31,7 @@ redirect_from:
 - <span style="font-size: 14px;">04/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.</span>
 - <span style="font-size: 14px;">01/2023: Our paper [Enable](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.</span>
 - <span style="font-size: 14px;">10/2022: Our paper [Handwriting Velcro](https://dl.acm.org/doi/10.1145/3569461) on flexible text input system is accepted to **Ubicomp/IMWUT 2023**.</span>
-- <span style="font-size: 14px;">08/2022: Our paper [Full-body](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **Ubicomp/IMWUT 2023**.</span>
+- <span style="font-size: 14px;">08/2022: Our paper [Full-body](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **TOMMCCAP 2023**.</span>
 - <span style="font-size: 14px;">10/2021: Our paper MSMC-ProVis on data processing and visualization won the **<span style="color: red;">Best Poster Paper</span>** on **ChinaVR 2021**.</span>
 
 # Publications
