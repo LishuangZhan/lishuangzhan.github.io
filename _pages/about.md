@@ -12,12 +12,12 @@ redirect_from:
 # Education
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 16px; line-height: 0.8;">
   <tr>
-    <td style="width:25%; border: none;">2021-2026(expected)</td>
-    <td style="width:75%; border: none;">Xiamen University, Successive Master-Doctor in Computer Science and Technology</td>
+    <td style="width:15%; border: none;">2021-now</td>
+    <td style="width:85%; border: none;">Xiamen University, Successive Master-Doctor in Computer Science and Technology</td>
   </tr>
   <tr>
-    <td style="width:25%; border: none;">2017-2021</td>
-    <td style="width:75%; border: none;">Xiamen University, Bachelor in Digital Media Technology</td>
+    <td style="width:15%; border: none;">2017-2021</td>
+    <td style="width:85%; border: none;">Xiamen University, Bachelor in Digital Media Technology</td>
   </tr>
 </table>
 
