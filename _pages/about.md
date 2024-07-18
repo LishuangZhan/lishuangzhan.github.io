@@ -22,16 +22,28 @@ redirect_from:
 </table>
 
 # News
-- <span style="font-size: 14px;">07/2024: Our paper **SATPose** on 3D human pose estimation is accepted to **ACM MM 2024**.</span>
+- <span style="font-size: 14px;">07/2024: Our paper **SATPose** on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</span>
 - <span style="font-size: 14px;">02/2024: Our paper [Loose Inertial Poser](https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</span>
 - <span style="font-size: 14px;">10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.</span>
 - <span style="font-size: 14px;">06/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.</span>
-- <span style="font-size: 14px;">01/2023: Our paper [Enable](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.</span>
+- <span style="font-size: 14px;">01/2023: Our paper [TouchRobotDog](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.</span>
 - <span style="font-size: 14px;">10/2022: Our paper [Handwriting Velcro](https://dl.acm.org/doi/10.1145/3569461) on flexible text input system is accepted to **Ubicomp/IMWUT 2023**.</span>
-- <span style="font-size: 14px;">08/2022: Our paper [Full-body](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **TOMMCCAP 2023**.</span>
+- <span style="font-size: 14px;">08/2022: Our paper [SparseFlexibleMocap](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **TOMMCCAP 2023**.</span>
 - <span style="font-size: 14px;">10/2021: Our paper MSMC-ProVis on data processing and visualization won the **<span style="color: red;">Best Poster Paper</span>** on **ChinaVR 2021**.</span>
 
 # Publications
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
+  <tr>
+    <td style="width:35%; border: none;"><img src="/images/acmmm_satpose.jpg" width="100%"></td>
+    <td style="width:65%; border: none;">
+      <strong>SATPose: Improving Monocular 3D Pose Estimation with Spatial-aware Ground Tactility</strong><br>
+      <strong>Lishuang Zhan</strong>, Enting Ying, Jiabao Gan, Shihui Guo*, Boyu Gao, Yipeng Qin<br>
+      <em>Proceedings of the 32st ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024</em><br>
+      SATPose is a novel multimodal approach for 3D human pose estimation to mitigate the depth ambiguity inherent in monocular solutions by integrating spatial-aware pressure information.
+    </td>
+  </tr>
+</table>
+
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
   <tr>
     <td style="width:35%; border: none;"><img src="/images/cvpr_looseinertialposer.jpg" width="100%"></td>
