@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px;">I am currently a Ph.D student (since fall, 2021) in [School of Informatics, Xiamen University](https://informatics.xmu.edu.cn/), advised by Prof. [Shihui Guo](https://www.humanplus.xyz/). My research focuses on natural human-computer interaction, flexible wearables, and multimodal sensing.</span>
+<span style="font-size: 14px;">I am currently a Ph.D student (since fall, 2021) in [School of Informatics, Xiamen University](https://informatics.xmu.edu.cn/), advised by Prof. [Shihui Guo](https://www.humanplus.xyz/). My research focuses on natural human-computer interaction, flexible wearables, and multimodal sensing.</span>
 
 # Education
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 16px; line-height: 0.8;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 14px; line-height: 0.8;">
   <tr>
     <td style="width:15%; border: none;">2021-now</td>
     <td style="width:85%; border: none;">Xiamen University, Successive Master-Doctor in Computer Science and Technology</td>
