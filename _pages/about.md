@@ -38,7 +38,7 @@ redirect_from:
     <td style="width:65%; border: none;">
       <strong><a href="https://openreview.net/forum?id=VnaNemZgPj">SATPose: Improving Monocular 3D Pose Estimation with Spatial-aware Ground Tactility</a></strong><br>
       <strong>Lishuang Zhan</strong>, Enting Ying, Jiabao Gan, Shihui Guo*, Boyu Gao, Yipeng Qin<br>
-      <em>Proceedings of the 32st ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024</em><br>
+      <em>Proceedings of the 32nd ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024</em><br>
       SATPose is a novel multimodal approach for 3D human pose estimation to mitigate the depth ambiguity inherent in monocular solutions by integrating spatial-aware pressure information.
     </td>
   </tr>
