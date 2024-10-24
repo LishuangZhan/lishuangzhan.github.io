@@ -22,7 +22,7 @@ redirect_from:
 </table>
 
 # News
-<table style="width:100%; border-collapse: collapse; border: none; font-size: 14px; line-height: 0.8;">
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 10px; line-height: 0.8;">
   <tr>
     <td style="width:100%; border: none;">07/2024: Our paper <a href="https://openreview.net/forum?id=VnaNemZgPj">SATPose</a> on multimodal 3D human pose estimation is accepted to <strong>ACM MM 2024</strong>.</td>
   </tr>
