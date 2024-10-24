@@ -1,11 +1,13 @@
+<!--
 ---
 permalink: /
-<!-- title: "Lishuang Zhan &#124; 詹李双" -->
+title: "Lishuang Zhan &#124; 詹李双"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+-->
 
 <span style="font-size: 10px;">I am currently a Ph.D student (since fall, 2021) in [School of Informatics, Xiamen University](https://informatics.xmu.edu.cn/), advised by Prof. [Shihui Guo](https://www.humanplus.xyz/). My research focuses on natural human-computer interaction, flexible wearables, and multimodal sensing.</span>
 
