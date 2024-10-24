@@ -24,13 +24,32 @@ redirect_from:
 # News
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 14px; line-height: 0.8;">
   <tr>
-    07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.
+    <td style="width:100%; border: none;">07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</td>
   </tr>
   <tr>
-    02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.
+    <td style="width:100%; border: none;">02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</td>
+  </tr>
+  <tr>
+    <td style="width:100%; border: none;">10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.</td>
+  </tr>
+  <tr>
+    <td style="width:100%; border: none;">06/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.</td>
+  </tr>
+  <tr>
+    <td style="width:100%; border: none;">01/2023: Our paper [Touchable Robot Dog](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.</td>
+  </tr>
+  <tr>
+    <td style="width:100%; border: none;">10/2022: Our paper [Handwriting Velcro](https://dl.acm.org/doi/10.1145/3569461) on flexible text input system is accepted to **Ubicomp/IMWUT 2023**.</td>
+  </tr>
+  <tr>
+    <td style="width:100%; border: none;">08/2022: Our paper [Sparse Flexible Mocap](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **TOMMCCAP 2023**.</td>
+  </tr>
+  <tr>
+    <td style="width:100%; border: none;">10/2021: Our paper MSMD-VisPro on data processing and visualization won the **<span style="color: red;">Best Poster Paper</span>** on **ChinaVR 2021**.</td>
   </tr>
 </table>
 
+<!--
 - <span style="font-size: 14px;">07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</span>
 - <span style="font-size: 14px;">02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</span>
 - <span style="font-size: 14px;">10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.</span>
@@ -39,6 +58,7 @@ redirect_from:
 - <span style="font-size: 14px;">10/2022: Our paper [Handwriting Velcro](https://dl.acm.org/doi/10.1145/3569461) on flexible text input system is accepted to **Ubicomp/IMWUT 2023**.</span>
 - <span style="font-size: 14px;">08/2022: Our paper [Sparse Flexible Mocap](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **TOMMCCAP 2023**.</span>
 - <span style="font-size: 14px;">10/2021: Our paper MSMD-VisPro on data processing and visualization won the **<span style="color: red;">Best Poster Paper</span>** on **ChinaVR 2021**.</span>
+-->
 
 # Publications
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 10px;">
