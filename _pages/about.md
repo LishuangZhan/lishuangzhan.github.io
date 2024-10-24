@@ -22,8 +22,17 @@ redirect_from:
 </table>
 
 # News
+<table style="width:100%; border-collapse: collapse; border: none; font-size: 14px; line-height: 0.8;">
+  <tr>
+    07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.
+  </tr>
+  <tr>
+    02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.
+  </tr>
+</table>
+
 - <span style="font-size: 14px;">07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</span>
-- <span style="font-size: 14px;">02/2024: Our paper [Loose Inertial Poser](https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</span>
+- <span style="font-size: 14px;">02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</span>
 - <span style="font-size: 14px;">10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.</span>
 - <span style="font-size: 14px;">06/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.</span>
 - <span style="font-size: 14px;">01/2023: Our paper [Touchable Robot Dog](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.</span>
@@ -48,7 +57,7 @@ redirect_from:
   <tr>
     <td style="width:35%; border: none;"><img src="/images/cvpr_looseinertialposer.jpg" width="100%"></td>
     <td style="width:65%; border: none;">
-      <strong><a href="https://openaccess.thecvf.com/content/CVPR2024/html/Zuo_Loose_Inertial_Poser_Motion_Capture_with_IMU-attached_Loose-Wear_Jacket_CVPR_2024_paper.html">Loose Inertial Poser: Motion Capture with IMU-attached Loose-Wear Jacket</a></strong><br>
+      <strong><a href="https://ieeexplore.ieee.org/document/10657915">Loose Inertial Poser: Motion Capture with IMU-attached Loose-Wear Jacket</a></strong><br>
       Chengxu Zuo, Yiming Wang, <strong>Lishuang Zhan</strong>, Shihui Guo*, Xinyu Yi, Feng Xu, Yipeng Qin<br>
       <em>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024</em><br>
       Loose Inertial Poser is a novel motion capture solution with high wearing comfortableness by integrating four Inertial Measurement Units (IMUs) into a loose-wear jacket.
