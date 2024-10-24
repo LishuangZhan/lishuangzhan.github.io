@@ -24,28 +24,28 @@ redirect_from:
 # News
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 14px; line-height: 0.8;">
   <tr>
-    <td style="width:100%; border: none;">07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</td>
+    <td style="width:100%; border: none;">07/2024: Our paper <a href="https://openreview.net/forum?id=VnaNemZgPj">SATPose</a> on multimodal 3D human pose estimation is accepted to <strong>ACM MM 2024</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</td>
+    <td style="width:100%; border: none;">02/2024: Our paper <a href="https://ieeexplore.ieee.org/document/10657915">Loose Inertial Poser</a> on motion capture with loose-wear IMUs is accepted to <strong>CVPR 2024</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.</td>
+    <td style="width:100%; border: none;">10/2023: Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3631454?af=R">TouchEditor</a> on flexible text editing system is accepted to <strong>Ubicomp/IMWUT 2024</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">06/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.</td>
+    <td style="width:100%; border: none;">06/2023: Our paper <a href="https://dl.acm.org/doi/abs/10.1145/3596258">Touch-and-Heal</a> on data-driven affective computing is accepted to <strong>Ubicomp/IMWUT 2023</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">01/2023: Our paper [Touchable Robot Dog](https://ieeexplore.ieee.org/document/10161049) on human-robot-dog tactile interaction is accepted to **ICRA 2023**.</td>
+    <td style="width:100%; border: none;">01/2023: Our paper <a href="https://ieeexplore.ieee.org/document/10161049">Touchable Robot Dog</a> on human-robot-dog tactile interaction is accepted to <strong>ICRA 2023</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">10/2022: Our paper [Handwriting Velcro](https://dl.acm.org/doi/10.1145/3569461) on flexible text input system is accepted to **Ubicomp/IMWUT 2023**.</td>
+    <td style="width:100%; border: none;">10/2022: Our paper <a href="https://dl.acm.org/doi/10.1145/3569461">Handwriting Velcro</a> on flexible text input system is accepted to <strong>Ubicomp/IMWUT 2023</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">08/2022: Our paper [Sparse Flexible Mocap](https://dl.acm.org/doi/10.1145/3564700) on sparse joint tracking is accepted to **TOMMCCAP 2023**.</td>
+    <td style="width:100%; border: none;">08/2022: Our paper <a href="https://dl.acm.org/doi/10.1145/3564700">Sparse Flexible Mocap</a> on sparse joint tracking is accepted to <strong>TOMMCCAP 2023</strong>.</td>
   </tr>
   <tr>
-    <td style="width:100%; border: none;">10/2021: Our paper MSMD-VisPro on data processing and visualization won the **<span style="color: red;">Best Poster Paper</span>** on **ChinaVR 2021**.</td>
+    <td style="width:100%; border: none;">10/2021: Our paper MSMD-VisPro on data processing and visualization won the <strong><span style="color: red;">Best Poster Paper</span></strong> on <strong>ChinaVR 2021</strong>.</td>
   </tr>
 </table>
 
