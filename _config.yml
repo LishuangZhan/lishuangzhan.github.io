@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhan's HomePage"
 title_separator          : "-"
-name                     : &name "Lishuang Zhan"
+name                     : # &name "Lishuang Zhan"
 description              : &description "Love No Matter What"
 url                      : https://lishuangzhan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Lishuang Zhan"
+  name             : # "Lishuang Zhan"
   pronouns         : # example: "she/her"  
   bio              : "Love No Matter What"
   location         : "Xiamen, Fujian, China"
