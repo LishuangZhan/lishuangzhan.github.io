@@ -24,7 +24,7 @@ redirect_from:
 ### News
 <table style="width:100%; border-collapse: collapse; border: none; font-size: 10px; line-height: 0.8;">
   <tr>
-    <td style="width:100%; border: none;">07/2024: Our paper <a href="https://openreview.net/forum?id=VnaNemZgPj">SATPose</a> on multimodal 3D human pose estimation is accepted to <strong>ACM MM 2024</strong>.</td>
+    <td style="width:100%; border: none;">07/2024: Our paper <a href="https://dl.acm.org/doi/10.1145/3664647.3681654">SATPose</a> on multimodal 3D human pose estimation is accepted to <strong>ACM MM 2024</strong>.</td>
   </tr>
   <tr>
     <td style="width:100%; border: none;">02/2024: Our paper <a href="https://ieeexplore.ieee.org/document/10657915">Loose Inertial Poser</a> on motion capture with loose-wear IMUs is accepted to <strong>CVPR 2024</strong>.</td>
@@ -50,7 +50,7 @@ redirect_from:
 </table>
 
 <!--
-- <span style="font-size: 14px;">07/2024: Our paper [SATPose](https://openreview.net/forum?id=VnaNemZgPj) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</span>
+- <span style="font-size: 14px;">07/2024: Our paper [SATPose](https://dl.acm.org/doi/10.1145/3664647.3681654) on multimodal 3D human pose estimation is accepted to **ACM MM 2024**.</span>
 - <span style="font-size: 14px;">02/2024: Our paper [Loose Inertial Poser](https://ieeexplore.ieee.org/document/10657915) on motion capture with loose-wear IMUs is accepted to **CVPR 2024**.</span>
 - <span style="font-size: 14px;">10/2023: Our paper [TouchEditor](https://dl.acm.org/doi/abs/10.1145/3631454?af=R) on flexible text editing system is accepted to **Ubicomp/IMWUT 2024**.</span>
 - <span style="font-size: 14px;">06/2023: Our paper [Touch-and-Heal](https://dl.acm.org/doi/abs/10.1145/3596258) on data-driven affective computing is accepted to **Ubicomp/IMWUT 2023**.</span>
@@ -65,7 +65,7 @@ redirect_from:
   <tr>
     <td style="width:35%; border: none;"><img src="/images/acmmm_satpose.jpg" width="100%"></td>
     <td style="width:65%; border: none;">
-      <strong><a href="https://openreview.net/forum?id=VnaNemZgPj">SATPose: Improving Monocular 3D Pose Estimation with Spatial-aware Ground Tactility</a></strong><br>
+      <strong><a href="https://dl.acm.org/doi/10.1145/3664647.3681654">SATPose: Improving Monocular 3D Pose Estimation with Spatial-aware Ground Tactility</a></strong><br>
       <strong>Lishuang Zhan</strong>, Enting Ying, Jiabao Gan, Shihui Guo*, Boyu Gao, Yipeng Qin<br>
       <em>Proceedings of the 32nd ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2024</em><br>
       SATPose is a novel multimodal approach for 3D human pose estimation to mitigate the depth ambiguity inherent in monocular solutions by integrating spatial-aware pressure information.
